@@ -17,3 +17,6 @@ console.log("You can use dollar in variable names!")
 /*comment!
 console.log("not outputted")
 also comment!*/
+//math
+var math 2+2
+console.log(math)
