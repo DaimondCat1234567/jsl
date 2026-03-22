@@ -20,3 +20,12 @@ also comment!*/
 //math
 var math 2+2
 console.log(math)
+//a !== A
+//a == A
+//a === a
+// and - &&
+// or - !!
+// not - !
+if math==4{
+  console.log("2+2=4")
+}
